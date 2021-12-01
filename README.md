@@ -6,7 +6,7 @@ Enter in your API key for Tinyjpg. You get it from their website. Then Enter the
 <br>
 <br>
 For example:
-<code>Folder > Lenovo-Laptop > something.jpg</code>
+<code>Folder > Lenovo Laptop > something.jpg</code>
 will be renamed to:
 <code>Folder > Lenovo Laptop > lenovo-laptop.jpg</code>
 <br>
@@ -14,7 +14,6 @@ will be renamed to:
 By default the spaces will be replaced by hyphens and the name will be converted to lower case. In future versions, I plan to make it more user friendly. 
 
 <br>
-
 <br>
 <br>
 Your contributions are welcome!
